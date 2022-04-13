@@ -9,7 +9,7 @@
   <h2>
   1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     </a>
- <a href=".pdf" target="_blank">
+ <a href="Course 1 - Introduction to Tensorflow/9. CERTIFICATE.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
  </a>
   </h2>
