@@ -18,7 +18,7 @@ To achieve this, this specialization I completd the following courses:
 4. Sequences, Time Series and Prediction
 
 <div>
-  <a href="" target="_blank">
+  <a href="https://github.com/shehroz218/Tensorflow-Developer-Certificate/tree/main/Course%201%20-%20Introduction%20to%20Tensorflow" target="_blank">
   <h2>
   1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     </a>
