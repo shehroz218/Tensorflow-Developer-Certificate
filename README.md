@@ -23,7 +23,7 @@ The Machine Learning course and Deep Learning Specialization from Andrew Ng teac
   <h2>
    2. Convolutional Neural Networks in TensorFlow
     </a>
- <a href=".pdf" target="_blank">
+ <a href="Course 2 - Convolutional Neural Networks/6. CERTIFICATE.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
  </a>
   </h2>
@@ -36,7 +36,7 @@ In Course 2 of the deeplearning.ai TensorFlow Specialization, you will learn adv
   <h2>
    3. Natural Language Processing
     </a>
- <a href=".pdf" target="_blank">
+ <a href="Course 3 - Natural Language Processing/13. CERTIFICATE.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
  </a>
   </h2>
@@ -49,7 +49,7 @@ In Course 3 of the deeplearning.ai TensorFlow Specialization, you will build nat
   <h2>
   4. Sequences, Time Series and Prediction 
     </a>
- <a href=".pdf" target="_blank">
+ <a href="Course 4 - Sequences, Time Series and Prediction/10. CERTIFICATE.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
  </a>
   </h2>
