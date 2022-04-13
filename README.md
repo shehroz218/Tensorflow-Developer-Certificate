@@ -1,4 +1,7 @@
 # Tensorflow-Developer-Certificate
+<p align="center">
+<img src="header.jpeg"></img>
+</p>
 ![](header.jpeg)
 
 ## About this Professional Certificate
