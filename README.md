@@ -1,8 +1,21 @@
 # Tensorflow-Developer-Certificate
 
+In this TensorFlow Developer Professional Certificate program, I got hands-on experience through 16 Python programming assignments. By the end of this program, I am now ready for: 
 
+- Building and training neural networks using TensorFlow
 
+- Improving network’s performance using convolutions as you train it to identify real-world images
 
+- Teach machines to understand, analyze, and respond to human speech with natural language processing systems
+
+- Process text, represent sentences as vectors, and train a model to create original poetry!
+
+To achieve this, this specialization I completd the following courses:
+
+1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+2. Convolutional Neural Networks in TensorFlow
+3. Natural Language Processing in TensorFlow
+4. Sequences, Time Series and Prediction
 
 <div>
   <a href="" target="_blank">
