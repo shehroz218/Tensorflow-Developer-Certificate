@@ -1,4 +1,4 @@
-# Tensorflow-Developer-Certificate
+
 <p align="center">
 <img src="header.jpeg" width="900" height="400"></img>
 </p>
