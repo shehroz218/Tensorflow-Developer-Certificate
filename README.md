@@ -32,7 +32,7 @@ If you are a software developer who wants to build scalable AI-powered algorithm
 The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
 <div>
-  <a href="" target="_blank">
+  <a href="https://github.com/shehroz218/Tensorflow-Developer-Certificate/tree/main/Course%202%20-%20Convolutional%20Neural%20Networks" target="_blank">
   <h2>
    2. Convolutional Neural Networks in TensorFlow
     </a>
@@ -45,7 +45,7 @@ The Machine Learning course and Deep Learning Specialization from Andrew Ng teac
 In Course 2 of the deeplearning.ai TensorFlow Specialization, you will learn advanced techniques to improve the computer vision model you built in Course 1. You will explore how to work with real-world images in different shapes and sizes, visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy, and explore strategies to prevent overfitting, including augmentation and dropout. Finally, Course 2 will introduce you to transfer learning and how learned features can be extracted from models. The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
 <div>
-  <a href="https://github.com/shehroz218/Tensorflow-Developer-Certificate/tree/main/Course%201%20-%20Introduction%20to%20Tensorflow" target="_blank">
+  <a href="https://github.com/shehroz218/Tensorflow-Developer-Certificate/tree/main/Course%203%20-%20Natural%20Language%20Processing" target="_blank">
   <h2>
    3. Natural Language Processing
     </a>
@@ -58,7 +58,7 @@ In Course 2 of the deeplearning.ai TensorFlow Specialization, you will learn adv
 In Course 3 of the deeplearning.ai TensorFlow Specialization, you will build natural language processing systems using TensorFlow. You will learn to process text, including tokenizing and representing sentences as vectors, so that they can be input to a neural network. You’ll also learn to apply RNNs, GRUs, and LSTMs in TensorFlow. Finally, you’ll get to train an LSTM on existing text to create original poetry! The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
 <div>
-  <a href="" target="_blank">
+  <a href="https://github.com/shehroz218/Tensorflow-Developer-Certificate/tree/main/Course%204%20-%20Sequences%2C%20Time%20Series%20and%20Prediction" target="_blank">
   <h2>
   4. Sequences, Time Series and Prediction 
     </a>
